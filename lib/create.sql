@@ -5,4 +5,4 @@ CREAT TABLE bears (
   color TEXT,
   temperment TEXT,
   alive INTEGER
-)
+);
