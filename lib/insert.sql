@@ -3,18 +3,18 @@
 INSERT INTO bears (name, age, gender, color, temperament, alive)
   VALUES ("MR. Chocolate", 12, "M", "Brown", "Angry", "1");
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-  VALUES ("MR. Chocolate", 12, "M", "Brown", "Angry", "1");
+  VALUES ("Rowdy", 12, "M", "Brown", "Angry", "1");
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-  VALUES ("MR. Chocolate", 12, "M", "Brown", "Angry", "1");
+  VALUES ("Tabitha", 12, "M", "Brown", "Angry", "1");
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-  VALUES ("MR. Chocolate", 12, "M", "Brown", "Angry", "1");
+  VALUES ("Sergeant Brown", 12, "M", "Brown", "Angry", "1");
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-  VALUES ("MR. Chocolate", 12, "M", "Brown", "Angry", "1");
+  VALUES ("Melissa", 12, "M", "Brown", "Angry", "1");
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-  VALUES ("MR. Chocolate", 12, "M", "Brown", "Angry", "1");
+  VALUES ("Grinch", 12, "M", "Brown", "Angry", "1");
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-  VALUES ("MR. Chocolate", 12, "M", "Brown", "Angry", "1");
+  VALUES ("Wendy", 12, "M", "Brown", "Angry", "1");
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-  VALUES ("MR. Chocolate", 12, "M", "Brown", "Angry", "1");
+  VALUES (NULL, 12, "M", "Brown", "Angry", "1");
 
   
